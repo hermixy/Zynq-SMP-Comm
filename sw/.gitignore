@@ -1,0 +1,9 @@
+Debug
+Release
+*.elf
+*.size
+*.o
+*.zip
+.DS_Store
+.metadata/*
+SDK.log
